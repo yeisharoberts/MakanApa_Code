@@ -1,0 +1,37 @@
+.parent-profile{
+    min-height: 70vh;
+    position: unset;
+    margin-bottom: 80px;
+}
+
+.profile-card{
+    top: 50px !important;
+}
+
+.profile-image{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 25%;
+}
+
+.profile-details{
+    margin-top: 20px;
+}
+
+.rest-name{
+    font-size: 25px;
+    margin-left: 10px;
+    font-weight: 650;
+}
+
+.review-title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-delete:hover{
+    cursor: pointer;
+}

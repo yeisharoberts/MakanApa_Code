@@ -1,0 +1,22 @@
+.admin-settings-parent-tabs{
+    padding: 50px;
+}
+
+.eatery-profile-image{
+    border-radius: 50%;
+}
+
+.c-gray{
+    color: #919191;
+}
+
+.admin-update-info-btn{
+    justify-content: flex-end;
+    display: flex;
+    margin-top: 20px;
+}
+
+.secret-key-parent-div{
+    display: flex;
+    align-items: baseline;
+}

@@ -1,0 +1,12 @@
+.parent-registerBusiness{
+    min-height: 100vh;
+    color: black;
+}
+
+.parent-form{
+    margin-top: 50px;
+}
+
+.alert-business-title{
+    font-weight: 700;
+}

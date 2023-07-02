@@ -1,0 +1,20 @@
+.parent-admin-home{
+    min-height: calc(100vh - 250px);
+}
+
+.parent-tab-admin{
+    padding: 30px;
+}
+
+.nav-pills .nav-link.active{
+    color: white !important;
+    background-color: black !important;
+}
+
+.p-25{
+    padding: 20px;
+}
+
+.c-black{
+    color: black;
+}

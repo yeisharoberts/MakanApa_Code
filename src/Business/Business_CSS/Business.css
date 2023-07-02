@@ -1,0 +1,268 @@
+.ml-3{
+    margin-left: 20px;
+}
+
+.parent-admin{
+    min-height: 100vh;
+    background-color: white;
+}
+
+.parent-tab{
+    padding: 20px;
+    background-color: #dcdcdc;
+    min-height: 100vh;
+}
+
+.tab-col-body{
+    border: 1px solid white;
+    border-radius: 15px;
+    height: auto;
+}
+
+.nav-link-edit{
+    color: black !important;
+    padding: 20px;
+    font-size: 15px;
+}
+
+.nav-link-edit.active{
+    background-color: #212529 !important;
+    color: white !important;
+}
+
+.heading-total-reviews{
+    display: flex;
+}
+
+.people-count{
+    margin-left: 10px;
+    margin-top: 3px;
+    color: black;
+}
+
+.people-icon{
+    color: white;
+}
+
+.heading-total-reviews{
+    font-size: 25px;
+    font-weight: 650;
+}
+
+.heading-title{
+    font-size: 23px;
+    font-weight: 650;
+    color: black;
+}
+
+.people-icon-container{
+    height: 50px;
+    width: 50px;
+    background-color: rgba(12, 57, 134, 0.7);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.trophy-icon-container{
+    height: 50px;
+    width: 50px;
+    background-color: rgba(235, 46, 128, 0.7);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.heading-container{
+    margin: 0px 0px 0px 20px;
+}
+
+.icons-group{
+    display: flex;
+}
+
+.review-happy-container{
+    height: 50px;
+    width: 50px;
+    background-color: rgba(51, 122, 81, 0.7);
+    border-radius: 10px;
+    text-align: center; 
+    padding-top: 7px;
+}
+
+.review-sad-container{
+    height: 50px;
+    width: 50px;
+    background-color: rgba(192, 2, 2, 0.7);
+    border-radius: 10px;
+    text-align: center; 
+    padding-top: 7px;   
+}
+
+.review-neutral-container{
+    height: 50px;
+    width: 50px;
+    background-color: rgba(232, 204, 48, 0.7);
+    border-radius: 10px;
+    text-align: center; 
+    padding-top: 7px; 
+}
+
+.heading-icon-1{
+    display: flex;
+}
+
+.happy-icon{
+    font-size: 35px;
+    color: white;
+}
+
+.sad-icon{
+    font-size: 30px;
+    margin-top: 3px;
+    color: white;
+}
+
+.review-summary-count{
+    font-size: 25px;
+    font-weight: 650;
+    margin-left: 10px;
+}
+
+.heading-card{
+    background-color: white;
+}
+
+.admin-display-socials-container{
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+
+.manage-socials-title{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    font-size: 25px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+
+.display-fb-socials{
+    font-size: 120px;
+}
+
+.display-ig-socials{
+    font-size: 108px;
+}
+
+.display-twitter-socials{
+    font-size: 119px;
+}
+
+.display-tt-socials{
+    font-size: 60px;
+    color: white;
+}
+
+.tt-social-container{
+    height: 95px;
+    width: 95px;
+    background-color: #212529;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p-static{
+    position: static;
+}
+
+.slick-prev:before, .slick-next:before {
+    color: black !important;
+}
+
+.slider-component{
+    margin: 10% 0 0 0;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.tab-col-body {
+    border: 1px solid #dcdcdc !important;
+    border-radius: 15px;
+    height: auto;
+}
+
+.parent-review-col1{
+    display: flex;
+    padding: 16%;
+}
+
+.prcol2-row1{
+    text-align: justify;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.review-more-btn{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.admin-review-desc{
+    align-items: baseline;
+}
+
+.pill-review-filter{
+    height: auto;
+    width: auto;
+    background-color: rgb(194, 199, 199);
+    border-radius: 20px;
+}
+
+.child-review-filter{
+    color: black;
+    display: flex;
+    align-items: baseline;
+    margin-left: 10px;
+}
+
+.parent-badge-improvements{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: flex-end;
+    display: flex;
+    margin-right: 20px;
+}
+
+.hover-pointer{
+    cursor: pointer;
+}
+
+.badge-improvements{
+    height: 27px;
+    align-items: center;
+    display: flex;
+}
+
+.rank-list-title{
+    padding-top: 40px;
+    justify-content: center;
+    display: flex;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.total-review-title{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    justify-content: center;
+    display: flex;
+    font-size: 23px;
+    font-weight: 600;
+}

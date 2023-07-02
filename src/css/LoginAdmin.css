@@ -1,0 +1,30 @@
+.parent-admin-container{
+    min-height: calc(100vh - 200px);
+    background-color: #E7EBF0;
+}
+
+.admin-title{
+    justify-content: center;
+    display: flex;
+    font-family: inherit;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.parent-paper{
+    padding: 30px;
+}
+
+.admin-btn-submit{
+    justify-content: flex-end;
+    display: flex;
+}
+
+.admin-login-form{
+    padding: 20px;
+}
+
+.admin-bg-img{
+    justify-content: center;
+    display: flex;
+}

@@ -1,0 +1,19 @@
+.reviews-reported{
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.review-sentiment{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.reported-by{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.title{
+    color: gray;
+}

@@ -1,0 +1,22 @@
+.parent-table{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.parent-business-approval{
+    min-height: 80vh;
+}
+
+.business-ssm:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.c-gray{
+    color: gray;
+}
+
+.ta-j{
+    text-align: justify;
+}

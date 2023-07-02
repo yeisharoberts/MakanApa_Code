@@ -1,0 +1,36 @@
+.paper-users-registered{
+    background-color: brown !important;
+}
+
+.paper-business-registered{
+    background-color: darkslateblue !important;
+}
+
+.p-20{
+    padding: 20px;
+}
+
+.users-icon{
+    justify-content: center;
+    display: flex;
+    font-size: 65px;
+    color: white;
+}
+
+.display-registered{
+    color: white;
+
+}
+
+.display-number{
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.admin-slider-component{
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}

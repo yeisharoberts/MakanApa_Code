@@ -1,0 +1,17 @@
+.card{
+    top: 25%;
+    width: 100%;
+}
+
+.parent-login{
+    height: calc(85vh - 60px);
+}
+
+.register-business-link, .register-business-link:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.tab-admin{
+    margin-left: auto;
+}

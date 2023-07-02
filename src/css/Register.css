@@ -1,0 +1,16 @@
+.card-t{
+    top: 15%;
+}
+.card-f{
+    top: 0;
+}
+.succ-alert{
+    margin-top: 15px;
+}
+.parent-register{
+    min-height: calc(100vh - 60px);
+}
+
+.emailErr{
+    color: red;
+}
